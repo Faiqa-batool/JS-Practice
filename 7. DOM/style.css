@@ -1,1 +1,20 @@
+body{
+    background-color: pink;
+    
 
+}
+h1, h2{
+    color: blueviolet;
+    background-color: antiquewhite;
+}
+button{
+    background: palevioletred;
+    border: 2px solid rgb(219, 54, 109);
+    height: 40px;
+    width: 100px;
+    font-style:normal;
+    color: white;
+}
+/* h1{
+    visibility: hidden;
+} */
