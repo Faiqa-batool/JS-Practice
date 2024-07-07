@@ -1,1 +1,10 @@
-
+.class1{
+    background-color: hotpink;
+    color: blueviolet;
+    font-size: larger;
+    font-style: italic;
+}
+.newClass{
+    background-color: yellowgreen;
+    /* color: brown; */
+}
