@@ -1,1 +1,13 @@
-
+#box{
+    height: 250px;
+    width: 250px;
+    background-color: blueviolet;
+    color: white;
+    border: 1px solid black;
+    /* border-radius: 50%; */
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    /* padding: 10px; */
+    font-size: 30px;
+}
