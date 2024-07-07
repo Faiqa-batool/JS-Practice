@@ -1,1 +1,13 @@
+.box{
+    color: black;
+    height: 100px;
+    width: 100px;
+    background-color: palevioletred;
+    border: 1px solid black;
+
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
