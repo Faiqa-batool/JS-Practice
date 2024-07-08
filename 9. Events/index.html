@@ -1,1 +1,26 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Learning | Events</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <!-- inline event handling -->
+    <button onclick="console.log('Button was clicked!'); alert('Hello, you clicked this button.')">
+        Click me
+    </button>
+    <button ondblclick=" alert('Hello, you clicked this button 2x times.')">
+        Click me 2 times
+    </button>
+    <div onmouseover="console.log('You are inside a div.')">
+        This is a box
+    </div>
+    <button id="btn1">btn1</button>
+    <div id="box">
+        This is a box 2
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
