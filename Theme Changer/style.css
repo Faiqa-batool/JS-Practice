@@ -1,1 +1,26 @@
+#mode{
+    height: 40px;
+    background-color: wheat;
+}
+#mode:hover{
+    background-color: rgb(247, 193, 93);
+}
+.mainDiv{
+    height: 500px;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    font-size: 100px;
+}
 
+.dark{
+    background-color: black;
+    color: hotpink;
+}
+.light{
+    background-color: white;
+    color: black;
+}
