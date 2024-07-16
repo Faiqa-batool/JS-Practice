@@ -3,3 +3,4 @@ Practice of JavaScript basic concepts by following the "Apna College" video: *ht
 
 ## Topics:
 
+1. Variables and Data Types
