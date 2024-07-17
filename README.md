@@ -11,3 +11,4 @@ Practice of JavaScript basic concepts by following the "Apna College" video: *ht
 6. Functions
 7. DOM
 8. DOM II
+9. Events
