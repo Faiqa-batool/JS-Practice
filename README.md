@@ -8,4 +8,5 @@ Practice of JavaScript basic concepts by following the "Apna College" video: *ht
 3. Loops
 4. String and string literals
 5. Arrays
-6. 
+6. Functions
+7. 
