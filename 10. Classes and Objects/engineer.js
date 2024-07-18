@@ -41,3 +41,5 @@ Faiqa.work();
 
 // let Ayesha = new Doctor();
 // Ayesha.work();
+
+// You can make objects as many as you want, using only one class.
