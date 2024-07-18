@@ -3,7 +3,7 @@ Practice of JavaScript basic concepts by following the "Apna College" video: *ht
 
 ## Topics:
 
-1. Variables and Data Types
+1. [Variables and Data Types](https://github.com/Faiqa-batool/JS-Practice/tree/main/1.%20Variables%20and%20Data%20types)
 2. Operators
 3. Loops
 4. String and string literals
