@@ -6,7 +6,7 @@ Practice of JavaScript basic concepts by following the "Apna College" video: *ht
 1. [Variables and Data Types](https://github.com/Faiqa-batool/JS-Practice/tree/main/1.%20Variables%20and%20Data%20types)
 2. [Operators](https://github.com/Faiqa-batool/JS-Practice/tree/main/2.%20Operators)
 3. [Loops](https://github.com/Faiqa-batool/JS-Practice/tree/main/3.%20Loops)
-4. String and string literals
+4. [String and string literals](https://github.com/Faiqa-batool/JS-Practice/tree/main/4.%20String%20and%20string%20literals)
 5. Arrays
 6. Functions
 7. DOM
