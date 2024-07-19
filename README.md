@@ -10,6 +10,6 @@ Practice of JavaScript basic concepts by following the "Apna College" video: *ht
 5. [Arrays](https://github.com/Faiqa-batool/JS-Practice/tree/main/5.%20Arrays)
 6. [Functions](https://github.com/Faiqa-batool/JS-Practice/tree/main/6.%20Functions)
 7. [DOM](https://github.com/Faiqa-batool/JS-Practice/tree/main/7.%20DOM)
-8. DOM II
+8. [DOM II](https://github.com/Faiqa-batool/JS-Practice/tree/main/8.%20DOM%20II)
 9. Events
 10. Classes and Objects
