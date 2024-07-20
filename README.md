@@ -16,5 +16,5 @@ Practice of JavaScript basic concepts by following the "Apna College" video: *ht
 
 ## Practice Activity:
 
-1. Guess the number game
+1. [Guess the number game](https://github.com/Faiqa-batool/JS-Practice/tree/main/Guess%20the%20number)
 2. 
