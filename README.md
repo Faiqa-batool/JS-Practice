@@ -13,3 +13,7 @@ Practice of JavaScript basic concepts by following the "Apna College" video: *ht
 8. [DOM II](https://github.com/Faiqa-batool/JS-Practice/tree/main/8.%20DOM%20II)
 9. [Events](https://github.com/Faiqa-batool/JS-Practice/tree/main/9.%20Events)
 10. [Classes and Objects](https://github.com/Faiqa-batool/JS-Practice/tree/main/10.%20Classes%20and%20Objects)
+
+## Practice Activity:
+
+1. 
