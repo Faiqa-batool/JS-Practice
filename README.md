@@ -16,4 +16,5 @@ Practice of JavaScript basic concepts by following the "Apna College" video: *ht
 
 ## Practice Activity:
 
-1. 
+1. Guess the number game
+2. 
